@@ -11,3 +11,6 @@ This feature allows users to create new tasks and organize their daily work.
 ## Delete Task
 
 This feature allows users to delete completed or unwanted tasks.
+## Search Tasks
+
+This feature allows users to search for tasks quickly and easily.
